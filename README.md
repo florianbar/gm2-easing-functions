@@ -13,5 +13,5 @@ EaseOutElastic(time, start, change, duration);
 EaseLinearExt(time, startX, startY, endX, endY, duration);
 EaseInExt(time, startX, startY, endX, endY, duration);
 EaseInOutExt(time, startX, startY, endX, endY, duration);
-EaseOutElasticExt(time, startX, startY, endX, endY, duration, tension);
+EaseOutElasticExt(time, startX, startY, endX, endY, duration, tension); //added tension to control bouciness
 ```
