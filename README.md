@@ -1,6 +1,6 @@
 # Game Maker 2 - Easing functions
 
-## Straight movement
+## Any transition
 ```
 EaseLinear(time, start, change, duration);
 EaseIn(time, start, change, duration);
@@ -8,7 +8,7 @@ EaseInOut(time, start, change, duration);
 EaseOutElastic(time, start, change, duration);
 ```
 
-## Diagonal movement
+## Movement specific
 ```
 EaseLinearExt(time, startX, startY, endX, endY, duration);
 EaseInExt(time, startX, startY, endX, endY, duration);
