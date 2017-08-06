@@ -8,7 +8,7 @@ EaseInOut(time, start, change, duration);
 EaseOutElastic(time, start, change, duration);
 ```
 
-## Movement specific
+## Movement specific (From A to B)
 ```
 EaseLinearExt(time, startX, startY, endX, endY, duration);
 EaseInExt(time, startX, startY, endX, endY, duration);
