@@ -1,6 +1,6 @@
 # Game Maker 2 - Easing functions
 
-## Streight movement
+## Straight movement
 ```
 EaseLinear(time, start, change, duration);
 EaseIn(time, start, change, duration);
